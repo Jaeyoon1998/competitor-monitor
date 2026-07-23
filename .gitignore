@@ -6,3 +6,6 @@ dashboard.html
 
 # data/ 는 커밋한다. seen.json 과 iap-state.json 이 있어야
 # 클라우드 실행에서도 "어제 대비 신규"와 "가격 변동"을 판별할 수 있다.
+
+# 슬랙 Webhook URL 은 비밀값이다. 이 저장소는 public 이므로 절대 커밋하지 않는다.
+config/slack-webhook.txt
