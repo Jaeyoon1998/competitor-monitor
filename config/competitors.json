@@ -1,0 +1,102 @@
+{
+  "_readme": "각 경쟁사마다 아는 값만 채우면 됩니다. 모르는 필드는 null로 두면 해당 수집기를 건너뜁니다.",
+  "_fields": {
+    "id": "내부 식별자 (영문 소문자, 하이픈)",
+    "name": "표시 이름",
+    "appstore_id": "App Store 숫자 ID. 예: apps.apple.com/kr/app/foo/id1234567890 → \"1234567890\"",
+    "appstore_country": "스토어 국가 코드 (기본 kr). 글로벌 빌드면 \"us\"",
+    "play_package": "Google Play 패키지명. 예: com.example.game",
+    "youtube_channel_id": "UC로 시작하는 채널 ID (핸들 아님). 채널 페이지 소스에서 \"channelId\" 검색",
+    "feeds": "추가 RSS/Atom 피드 URL 배열 (네이버 블로그, 티스토리, Steam 뉴스 등)",
+    "notice_url": "공식 홈페이지 공지사항 게시판 URL",
+    "notice_link_pattern": "공지 링크만 골라내는 정규식 (미지정 시 자동 추정)",
+    "ad_library_url": "Meta 광고 라이브러리 검색 URL (자동 수집 불가 — 주간 수동 확인용 링크)",
+    "site": "공식 사이트 (참고용, 수집에 쓰이지 않음)"
+  },
+  "competitors": [
+    {
+      "id": "zeta",
+      "name": "제타",
+      "appstore_id": "1619030760",
+      "appstore_country": "kr",
+      "play_package": "com.scatterlab.messenger",
+      "youtube_channel_id": null,
+      "feeds": [],
+      "notice_url": null,
+      "notice_link_pattern": null,
+      "site": "https://zeta-ai.io/",
+      "publisher": "Scatter Lab, Inc.",
+      "ad_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=KR&q=%EC%A0%9C%ED%83%80"
+    },
+    {
+      "id": "crack",
+      "name": "크랙",
+      "appstore_id": "6740223370",
+      "appstore_country": "kr",
+      "play_package": "com.wrtn.character",
+      "youtube_channel_id": "UC6TNOlKhBTLRGlTWQ33lbFg",
+      "feeds": [],
+      "notice_url": null,
+      "notice_link_pattern": null,
+      "site": "https://crack.wrtn.ai/",
+      "publisher": "wrtn technologies Inc.",
+      "ad_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=KR&q=%ED%81%AC%EB%9E%99"
+    },
+    {
+      "id": "babechat",
+      "name": "베이비챗",
+      "appstore_id": "6740225767",
+      "appstore_country": "kr",
+      "play_package": "ai.babechat.app",
+      "youtube_channel_id": null,
+      "feeds": [],
+      "notice_url": null,
+      "notice_link_pattern": null,
+      "site": "https://babechat.ai/",
+      "publisher": "Eleven, Co., Ltd.",
+      "ad_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=KR&q=%EB%B2%A0%EC%9D%B4%EB%B9%84%EC%B1%97"
+    },
+    {
+      "id": "bagelchat",
+      "name": "베이글챗",
+      "appstore_id": "6749137461",
+      "appstore_country": "kr",
+      "play_package": "com.konrev.bagelchat",
+      "youtube_channel_id": null,
+      "feeds": [],
+      "notice_url": null,
+      "notice_link_pattern": null,
+      "site": "https://bagelchat.ai/",
+      "publisher": "Konrev INC.",
+      "ad_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=KR&q=%EB%B2%A0%EC%9D%B4%EA%B8%80%EC%B1%97"
+    },
+    {
+      "id": "pling",
+      "name": "플링",
+      "appstore_id": "1497832962",
+      "appstore_country": "kr",
+      "play_package": "com.plingcast.app",
+      "youtube_channel_id": null,
+      "feeds": [],
+      "notice_url": null,
+      "notice_link_pattern": null,
+      "site": "https://www.plingcast.com/kr/",
+      "publisher": "PLINGCAST co., Ltd",
+      "ad_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=KR&q=%ED%94%8C%EB%A7%81"
+    },
+    {
+      "id": "loveydovey",
+      "name": "러비더비",
+      "appstore_id": "6468766519",
+      "appstore_country": "kr",
+      "play_package": "ai.tain.reelso",
+      "youtube_channel_id": null,
+      "feeds": [],
+      "notice_url": null,
+      "notice_link_pattern": null,
+      "site": "https://loveydovey.ai/",
+      "publisher": "TainAI, Inc.",
+      "ad_library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=KR&q=%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84"
+    }
+  ]
+}

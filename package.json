@@ -1,0 +1,11 @@
+{
+  "name": "competitor-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "경쟁사 이벤트/프로모션 데일리 모니터링",
+  "scripts": {
+    "collect": "node collect.js",
+    "build": "node build-dashboard.js"
+  }
+}

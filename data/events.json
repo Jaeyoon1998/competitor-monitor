@@ -1,0 +1,158 @@
+{
+  "_schema": {
+    "id": "고유 키. <competitor_id>-<시작일>-<슬러그>",
+    "competitor_id": "config/competitors.json 의 id",
+    "type": "event | promo | update | collab | marketing",
+    "title": "한 줄 제목 (표시용)",
+    "summary": "1~2문장. 무엇을 언제 어떤 보상으로 하는지",
+    "starts_on": "YYYY-MM-DD",
+    "ends_on": "YYYY-MM-DD 또는 null (상시/미상)",
+    "signals": "주목할 키워드 배열. 예: [\"유료 스킨\", \"기간한정\"]",
+    "confidence": "high(공지에 기간 명시) | medium(추정) | low(정황)",
+    "evidence": "[{source, url}] 배열",
+    "detected_on": "이 항목이 처음 감지된 날짜"
+  },
+  "events": [
+    {
+      "id": "zeta-2026-07-23-creator-contest",
+      "competitor_id": "zeta",
+      "type": "event",
+      "title": "제1회 글로벌 크리에이터 콘테스트",
+      "summary": "크리에이터 대상 캐릭터 제작 콘테스트를 진행 중. UGC 공급을 늘리는 쪽에 자원을 쓰고 있다는 신호로, 캐릭터 수 자체가 경쟁 축임을 전제한 움직임.",
+      "starts_on": "2026-07-23",
+      "ends_on": null,
+      "signals": ["UGC 공급 확대", "크리에이터 확보", "종료일 미상"],
+      "confidence": "medium",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" }
+      ],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "zeta-2026-07-16-prompt-2x",
+      "competitor_id": "zeta",
+      "type": "update",
+      "title": "제작 프롬프트 길이 2배 확대",
+      "summary": "캐릭터 제작 프롬프트 입력 한도를 두 배로 늘려 목요일부터 순차 적용. 크리에이터 이탈 요인을 직접 제거한 업데이트로, 콘테스트와 한 묶음의 UGC 드라이브로 보인다.",
+      "starts_on": "2026-07-16",
+      "ends_on": null,
+      "signals": ["크리에이터 리텐션", "제작 제약 완화"],
+      "confidence": "high",
+      "evidence": [{ "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1619030760" }],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "zeta-2026-07-23-iap-dual-pricing",
+      "competitor_id": "zeta",
+      "type": "promo",
+      "title": "피스 이중 가격 운영 (200피스 ₩2,800 / ₩2,400)",
+      "summary": "동일 수량 상품이 서로 다른 가격으로 동시 노출 중 — 200피스가 ₩2,800과 ₩2,400, 1000피스가 ₩12,000과 ₩14,000. 할인 프로모션이거나 가격 테스트다. 구독 상품 제타패스는 1일권 ₩2,800 / 정기 ₩14,900.",
+      "starts_on": "2026-07-23",
+      "ends_on": null,
+      "signals": ["이중 가격", "할인 또는 가격 테스트", "구독+재화 병행"],
+      "confidence": "medium",
+      "evidence": [{ "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id1619030760" }],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "crack-2026-07-10-fliptale",
+      "competitor_id": "crack",
+      "type": "update",
+      "title": "신규 게임 콘텐츠 '플립테일' 출시",
+      "summary": "킹메이커가 되어 옥좌의 주인을 정하는 게임형 콘텐츠를 추가. 순수 채팅에서 게임 메커닉 쪽으로 확장하는 방향이라 체류시간 경쟁에 직접 영향.",
+      "starts_on": "2026-07-10",
+      "ends_on": null,
+      "signals": ["게임형 콘텐츠", "체류시간 확대", "채팅 외 확장"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id6740223370" },
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.wrtn.character" }
+      ],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "crack-2026-07-23-cracker-promo",
+      "competitor_id": "crack",
+      "type": "promo",
+      "title": "크래커 대규모 할인 — '프로모션 상품' 2종 노출",
+      "summary": "상품명이 아예 '프로모션 상품'인 항목 2종(₩5,900 · ₩12,500)이 상위에 노출 중이고, 동일 구성이 이중 가격이다 — 9,600+400개가 ₩13,500과 ₩9,900, 28,000+2,000개가 ₩39,000과 ₩28,000. 실질 27~28% 할인. 6곳 중 최고가 팩(₩126,000)을 가진 곳이라 고액 결제 상단도 열려 있다.",
+      "starts_on": "2026-07-23",
+      "ends_on": null,
+      "signals": ["명시적 프로모션 상품", "약 28% 할인", "고액 팩 ₩126,000"],
+      "confidence": "high",
+      "evidence": [{ "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6740223370" }],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "bagelchat-2026-06-17-english-launch",
+      "competitor_id": "bagelchat",
+      "type": "update",
+      "title": "영어 서비스 시작 — 글로벌 확장",
+      "summary": "1.0.3에서 영어 서비스를 개시하고 이미지 연출을 강화. 정식 버전 도달 직후 바로 해외로 나가는 구성이라, 국내 경쟁보다 글로벌 선점을 노린 것으로 보인다.",
+      "starts_on": "2026-06-17",
+      "ends_on": null,
+      "signals": ["글로벌 확장", "영어 지원", "이미지 연출 강화"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.konrev.bagelchat" },
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id6749137461" }
+      ],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "pling-2026-06-27-playchat-launch",
+      "competitor_id": "pling",
+      "type": "update",
+      "title": "AI 채팅 '플레이챗' 출시 — 카테고리 신규 진입",
+      "summary": "오디오 드라마·웹소설 플랫폼이던 플링이 AI 채팅 기능을 붙였다. 효과음·이미지·오디오를 결합한 형태로, 기존 오디오 IP와 성우 자산을 그대로 얹을 수 있어 신규 진입자 중 차별화 요소가 가장 뚜렷하다.",
+      "starts_on": "2026-06-27",
+      "ends_on": null,
+      "signals": ["카테고리 진입", "오디오 자산 결합", "멀티모달 채팅"],
+      "confidence": "high",
+      "evidence": [{ "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.plingcast.app" }],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "pling-2026-07-23-price-test",
+      "competitor_id": "pling",
+      "type": "promo",
+      "title": "재화 가격 3단 병행 노출 (25플링 ₩3,000 / ₩3,600 / ₩3,800)",
+      "summary": "모든 수량대(25·50·100 플링)가 세 가지 가격으로 동시에 노출된다. 6곳 중 가장 조직적인 가격 실험이거나 할인 구간 운영이며, 최저가와 최고가 차이가 약 20%다.",
+      "starts_on": "2026-07-23",
+      "ends_on": null,
+      "signals": ["3단 가격 병행", "약 20% 폭", "가격 실험 정황"],
+      "confidence": "medium",
+      "evidence": [{ "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id1497832962" }],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "loveydovey-2026-07-23-low-ceiling",
+      "competitor_id": "loveydovey",
+      "type": "promo",
+      "title": "잼 최고가 ₩17,000 — 6곳 중 결제 상단 최저",
+      "summary": "'N원어치 잼' 방식으로 가격을 그대로 상품명에 쓰고, 최고가 팩이 ₩17,000에 그친다. 크랙 ₩126,000 · 베이비챗 ₩143,000과 대비되어 고액 결제 유저를 받을 그릇이 없는 상태다. 동일 금액 상품 중복 노출(₩3,300·₩5,500·₩6,600·₩9,900)도 함께 관찰된다.",
+      "starts_on": "2026-07-23",
+      "ends_on": null,
+      "signals": ["결제 상단 ₩17,000", "고래 수용 불가", "중복 가격 노출"],
+      "confidence": "medium",
+      "evidence": [{ "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6468766519" }],
+      "detected_on": "2026-07-23"
+    },
+    {
+      "id": "babechat-2026-04-04-beta",
+      "competitor_id": "babechat",
+      "type": "update",
+      "title": "베타 단계 유지 (0.1.16, 4월 이후 정체)",
+      "summary": "안드로이드 베타 출시 이후 4월 초부터 안정성 개선만 있고 기능 업데이트가 없다. 반면 인앱 상품은 ₩6,500~₩143,000으로 6곳 중 결제 상단이 가장 높아, 제품 성숙도 대비 과금 설계가 앞서 있다.",
+      "starts_on": "2026-04-04",
+      "ends_on": null,
+      "signals": ["베타 정체", "결제 상단 ₩143,000", "제품-과금 불균형"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=ai.babechat.app" },
+        { "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6740225767" }
+      ],
+      "detected_on": "2026-07-23"
+    }
+  ]
+}

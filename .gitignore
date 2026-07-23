@@ -1,0 +1,8 @@
+node_modules/
+
+# dashboard.html 은 events.json 에서 언제든 다시 만들 수 있는 산출물이다.
+# 매일 재생성되므로 커밋하지 않는다 (커밋하면 diff 노이즈만 커진다).
+dashboard.html
+
+# data/ 는 커밋한다. seen.json 과 iap-state.json 이 있어야
+# 클라우드 실행에서도 "어제 대비 신규"와 "가격 변동"을 판별할 수 있다.
