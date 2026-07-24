@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-24",
+  "collected_at": "2026-07-24T00:06:22.252Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_iap",
+      "external_id": "iap:d8be825533f2",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 제타패스 1일권 — ₩2,800\n- 200피스 — ₩2,800\n- 제타패스 — ₩14,900\n- 200피스 — ₩2,400\n- 500피스 — ₩7,000\n- 1000피스 — ₩12,000\n- 1000 피스 — ₩14,000\n- 600피스 — ₩7,200\n- 2000 피스 — ₩28,000\n- 3000 피스 — ₩42,000",
+      "url": "https://apps.apple.com/kr/app/id1619030760",
+      "published_at": "2026-07-24",
+      "competitor_name": "제타",
+      "fetched_at": "2026-07-24T00:06:22.252Z",
+      "fingerprint": "f8a6268da73cc30c"
+    }
+  ],
+  "errors": []
+}
