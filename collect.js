@@ -59,13 +59,24 @@ function writeJson(file, value) {
   fs.writeFileSync(file, JSON.stringify(value, null, 2), 'utf8');
 }
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 async function get(url, { json = false } = {}) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': UA, 'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8' },
-    redirect: 'follow',
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
-  return json ? res.json() : res.text();
+  // apps.apple.com 은 짧은 시간에 여러 번 때리면 503/429 로 스로틀한다.
+  // 일시적 상태 코드는 지수 백오프로 재시도한다 (구조적 실패는 그대로 던짐).
+  const RETRIABLE = new Set([429, 500, 502, 503, 504]);
+  let lastStatus = 0;
+  for (let attempt = 0; attempt < 4; attempt++) {
+    if (attempt > 0) await sleep(1000 * 2 ** (attempt - 1)); // 1s, 2s, 4s
+    const res = await fetch(url, {
+      headers: { 'User-Agent': UA, 'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8' },
+      redirect: 'follow',
+    });
+    if (res.ok) return json ? res.json() : res.text();
+    lastStatus = res.status;
+    if (!RETRIABLE.has(res.status)) break;
+  }
+  throw new Error(`HTTP ${lastStatus} ${url}`);
 }
 
 const stripTags = (html) =>
