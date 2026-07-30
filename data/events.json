@@ -55,6 +55,21 @@
       "detected_on": "2026-07-23"
     },
     {
+      "id": "zeta-2026-07-29-nested-replies",
+      "competitor_id": "zeta",
+      "type": "update",
+      "title": "'대댓글' + 댓글 스냅샷 첨부 기능 출시 (3.42.4)",
+      "summary": "제타가 안드로이드 3.42.4에서 댓글에 답글을 다는 '대댓글' 기능과 댓글에 스냅샷을 첨부하는 기능을 출시. 캐릭터 제작에 집중하던 최근 UGC 드라이브에 이어, 이번엔 이용자 간 커뮤니티·소셜 상호작용을 깊게 만들어 체류시간을 늘리려는 움직임으로 보인다.",
+      "starts_on": "2026-07-29",
+      "ends_on": null,
+      "signals": ["소셜 기능 확장", "커뮤니티 체류 강화", "대댓글/스냅샷 공유"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" }
+      ],
+      "detected_on": "2026-07-30"
+    },
+    {
       "id": "crack-2026-07-10-fliptale",
       "competitor_id": "crack",
       "type": "update",

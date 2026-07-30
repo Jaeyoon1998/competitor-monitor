@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-30",
+  "collected_at": "2026-07-30T00:09:45.316Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.42.4",
+      "title": "Android 3.42.4 업데이트",
+      "body": "감옥에~서~~ 누가 돌아왔~게~~~~~~~! 지금쯤 나올 때 된 “대댓글” 드디어 출시되었습니다. 대댓글만 나오면 심심하니까 댓글 스냅샷 첨부 기능도 추가! 아껴뒀던 스냅샷, 홍익인간 정신으로 나눠주십쇼.",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-07-29",
+      "competitor_name": "제타",
+      "fetched_at": "2026-07-30T00:09:45.316Z",
+      "fingerprint": "d9242bbc835981e4"
+    }
+  ],
+  "errors": []
+}
