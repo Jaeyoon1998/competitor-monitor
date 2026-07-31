@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-31",
+  "collected_at": "2026-07-31T00:10:28.254Z",
+  "items": [
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.1.4",
+      "title": "iOS 2.1.4 업데이트",
+      "body": "[크랙 업데이트 안내]\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9D%B4%EC%84%B8%EA%B3%84-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-07-30",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-07-31T00:10:28.254Z",
+      "fingerprint": "c6d4a8edacdcb8c5"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.1.4",
+      "title": "Android 2.1.4 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-07-28",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-07-31T00:10:28.254Z",
+      "fingerprint": "942c8da93bd77043"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.29",
+      "title": "iOS 1.5.29 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-07-30",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-07-31T00:10:28.254Z",
+      "fingerprint": "d8787330622dad94"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.29",
+      "title": "Android 1.5.29 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-07-28",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-07-31T00:10:28.254Z",
+      "fingerprint": "7dda7de834fdda61"
+    }
+  ],
+  "errors": []
+}
