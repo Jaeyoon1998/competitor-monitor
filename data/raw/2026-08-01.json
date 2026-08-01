@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-01",
+  "collected_at": "2026-08-01T00:09:57.697Z",
+  "items": [
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.30",
+      "title": "Android 1.5.30 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-07-30",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-01T00:09:57.697Z",
+      "fingerprint": "8528db6810b3273a"
+    }
+  ],
+  "errors": []
+}
