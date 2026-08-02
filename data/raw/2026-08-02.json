@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-02",
+  "collected_at": "2026-08-02T00:09:35.964Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.42.4",
+      "title": "iOS 3.42.4 업데이트",
+      "body": "감옥에~서~~ 누가 돌아왔~게~~~~~~~! 지금쯤 나올 때 된 “대댓글” 드디어 출시되었습니다. 대댓글만 나오면 심심하니까 댓글 스냅샷 첨부 기능도 추가! 아껴뒀던 스냅샷, 홍익인간 정신으로 나눠주십쇼.",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-07-31",
+      "competitor_name": "제타",
+      "fetched_at": "2026-08-02T00:09:35.964Z",
+      "fingerprint": "1a555d14805bedd7"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "appstore_iap",
+      "external_id": "iap:75b6161053c7",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 25 플링 — ₩3,000\n- 25 플링 — ₩3,800\n- 25 플링 — ₩3,600\n- 50 플링 — ₩6,000\n- 50 플링 — ₩7,500\n- 50 플링 — ₩7,200\n- 150 플링 — ₩22,500\n- 100 플링 — ₩12,000\n- 100 플링 — ₩15,000\n- 100 플링 — ₩14,400",
+      "url": "https://apps.apple.com/kr/app/id1497832962",
+      "published_at": "2026-08-02",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-02T00:09:35.964Z",
+      "fingerprint": "e11316a2e9bc2c12"
+    }
+  ],
+  "errors": []
+}

@@ -65,7 +65,8 @@
       "signals": ["소셜 기능 확장", "커뮤니티 체류 강화", "대댓글/스냅샷 공유"],
       "confidence": "high",
       "evidence": [
-        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" }
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" },
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1619030760" }
       ],
       "detected_on": "2026-07-30"
     },
