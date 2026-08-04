@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-04",
+  "collected_at": "2026-08-04T00:12:08.067Z",
+  "items": [
+    {
+      "competitor_id": "babechat",
+      "source": "appstore_iap",
+      "external_id": "iap:80e5bf0904a7",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 프로챗 6500 — ₩6,500\n- 프로챗 13000 — ₩13,000\n- 프로챗 37900 — ₩37,900\n- 프로챗 61500 — ₩61,500\n- 프로챗 36000 — ₩36,000\n- 프로챗 129000 — ₩129,000\n- 프로챗 28500 — ₩28,500\n- 프로챗 143000 — ₩143,000\n- 프로챗 11000 — ₩11,000\n- 프로챗 85900 — ₩85,900",
+      "url": "https://apps.apple.com/kr/app/id6740225767",
+      "published_at": "2026-08-04",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-08-04T00:12:08.067Z",
+      "fingerprint": "9241d48eeab13240"
+    },
+    {
+      "competitor_id": "babechat",
+      "source": "play_release",
+      "external_id": "v0.1.18",
+      "title": "Android 0.1.18 업데이트",
+      "body": "간헐적으로 프로챗 결제 누락되는 버그 수정",
+      "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR",
+      "published_at": "2026-07-24",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-08-04T00:12:08.067Z",
+      "fingerprint": "d4c4affcc9258b14"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.31",
+      "title": "iOS 1.5.31 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-08-02",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-04T00:12:08.067Z",
+      "fingerprint": "a4f531d5ad0da09d"
+    }
+  ],
+  "errors": []
+}
