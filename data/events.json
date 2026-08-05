@@ -169,6 +169,22 @@
         { "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6740225767" }
       ],
       "detected_on": "2026-07-23"
+    },
+    {
+      "id": "pling-2026-07-29-playchat-ugc",
+      "competitor_id": "pling",
+      "type": "update",
+      "title": "플레이챗 UGC 제작·공유 + 페르소나 출시 (Android 3.2.0 / iOS 5.1.0)",
+      "summary": "플링이 이용자가 직접 채팅 작품(플레이챗)을 만들어 공개/비공개/링크공개로 공유하고, 나만의 페르소나를 만드는 기능을 출시. 안드로이드 3.2.0(7/29)·iOS 5.1.0(8/4)에 순차 반영됐다. 6월 플레이챗(AI 채팅) 진입에 이어 소비자를 창작자로 돌려 콘텐츠 공급을 늘리는 UGC 개방 단계로, 제타의 크리에이터 드라이브와 같은 방향이다.",
+      "starts_on": "2026-07-29",
+      "ends_on": null,
+      "signals": ["UGC 제작 개방", "작품 공유(공개/비공개/링크)", "페르소나"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.plingcast.app" },
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" }
+      ],
+      "detected_on": "2026-08-05"
     }
   ]
 }
