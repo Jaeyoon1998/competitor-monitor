@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-06",
+  "collected_at": "2026-08-06T00:13:24.753Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "appstore_release",
+      "external_id": "v5.1.1",
+      "title": "iOS 5.1.1 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n새로운 기능\n· 플레이챗 만들기 : 이제 채팅 작품을 직접 만들어 대화할 수 있어요.\n· 플레이챗 공개/비공개/링크공개 : 직접 만든 흥미진진한 채팅을 다른사람들과 공유할 수 있어요.\n· 페르소나 : 나만의 페르소나를 만들어 더욱 몰입감 있게 대화해 보세요.\n\n멈춤 없는 로맨스 플레이, 플링.",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EB%A9%88%EC%B6%A4-%EC%97%86%EB%8A%94-%EB%A1%9C%EB%A7%A8%EC%8A%A4-%ED%94%8C%EB%A0%88%EC%9D%B4/id1497832962?uo=4",
+      "published_at": "2026-08-05",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-06T00:13:24.753Z",
+      "fingerprint": "2a8271e444f0da96"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "appstore_iap",
+      "external_id": "iap:8626527b08d7",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 25 플링 — ₩3,000\n- 25 플링 — ₩3,800\n- 25 플링 — ₩3,600\n- 50 플링 — ₩7,500\n- 50 플링 — ₩6,000\n- 50 플링 — ₩7,200\n- 150 플링 — ₩22,500\n- 100 플링 — ₩12,000\n- 100 플링 — ₩15,000\n- 100 플링 — ₩14,400",
+      "url": "https://apps.apple.com/kr/app/id1497832962",
+      "published_at": "2026-08-06",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-06T00:13:24.753Z",
+      "fingerprint": "748e59354189d402"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.32",
+      "title": "Android 1.5.32 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-08-05",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-06T00:13:24.753Z",
+      "fingerprint": "bece8214b59252af"
+    }
+  ],
+  "errors": []
+}
