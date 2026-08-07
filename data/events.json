@@ -185,6 +185,21 @@
         { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" }
       ],
       "detected_on": "2026-08-05"
+    },
+    {
+      "id": "zeta-2026-08-06-creator-feed",
+      "competitor_id": "zeta",
+      "type": "update",
+      "title": "'크리에이터 피드' 기능 출시 (Android 3.43.1)",
+      "summary": "제타가 안드로이드 3.43.1에서 크리에이터의 게시물 노출을 돕는 '크리에이터 피드'를 출시. SNS형 게시물 업로드 참여가 저조하던 문제를 피드로 풀려는 것으로, 최근 크리에이터 콘테스트·대댓글 등 UGC·소셜 강화 흐름의 연장선이다.",
+      "starts_on": "2026-08-06",
+      "ends_on": null,
+      "signals": ["크리에이터 피드", "UGC 노출 강화", "소셜 피드"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" }
+      ],
+      "detected_on": "2026-08-07"
     }
   ]
 }

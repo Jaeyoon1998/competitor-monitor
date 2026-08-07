@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-07",
+  "collected_at": "2026-08-07T00:14:50.531Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.43.1",
+      "title": "Android 3.43.1 업데이트",
+      "body": "갑자기 SNS 내 게시물 업로드 저조? 알고보니... 제타, ‘크리에이터 피드’ 기능 출격!",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-08-06",
+      "competitor_name": "제타",
+      "fetched_at": "2026-08-07T00:14:50.531Z",
+      "fingerprint": "d281890a632b1dbe"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.2.1",
+      "title": "Android 3.2.1 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n새로운 기능\n\n· 플레이챗 만들기 : 이제 채팅 작품을 직접 만들어 대화할 수 있어요.\n· 플레이챗 공개/비공개/링크공개 : 직접 만든 흥미진진한 채팅을 다른사람들과 공유할 수 있어요.\n· 페르소나 : 나만의 페르소나를 만들어 더욱 몰입감 있게 대화해 보세요.\n\n멈춤 없는 로맨스 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-08-05",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-07T00:14:50.531Z",
+      "fingerprint": "a2bf01cbe1d0d9e9"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.33",
+      "title": "Android 1.5.33 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-08-06",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-07T00:14:50.531Z",
+      "fingerprint": "3aa78a1938e15645"
+    }
+  ],
+  "errors": []
+}
