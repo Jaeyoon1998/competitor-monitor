@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-08",
+  "collected_at": "2026-08-08T00:11:58.868Z",
+  "items": [
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_iap",
+      "external_id": "iap:f449cc0bd259",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 크림 2,000개 — ₩4,400\n- 크림 14,000개 — ₩27,500\n- 크림 7,000개 — ₩13,800\n-  크림 8,000개 — ₩15,000\n- 크림 32,000개  — ₩62,000\n- 크림 46,000개  — ₩83,000\n- 크림 70,000개  — ₩135,000\n- 크림 24,000개 — ₩44,000",
+      "url": "https://apps.apple.com/kr/app/id6749137461",
+      "published_at": "2026-08-08",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-08-08T00:11:58.868Z",
+      "fingerprint": "8cf5e040af86cc22"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.32",
+      "title": "iOS 1.5.32 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-08-07",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-08T00:11:58.868Z",
+      "fingerprint": "b356f4ec176f877b"
+    }
+  ],
+  "errors": []
+}
