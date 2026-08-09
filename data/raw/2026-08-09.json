@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-09",
+  "collected_at": "2026-08-09T00:12:14.788Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.43.1",
+      "title": "iOS 3.43.1 업데이트",
+      "body": "갑자기 SNS 내 게시물 업로드 저조? 알고보니... 제타, ‘크리에이터 피드’ 기능 출격!",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-08-08",
+      "competitor_name": "제타",
+      "fetched_at": "2026-08-09T00:12:14.788Z",
+      "fingerprint": "d5dc3440f3565f78"
+    }
+  ],
+  "errors": []
+}
