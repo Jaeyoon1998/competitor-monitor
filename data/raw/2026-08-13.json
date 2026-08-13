@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-13",
+  "collected_at": "2026-08-13T00:14:51.766Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.44.0",
+      "title": "iOS 3.44.0 업데이트",
+      "body": "갑자기 SNS 내 게시물 업로드 저조? 알고보니... 제타, ‘크리에이터 피드’ 기능 출격!",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-08-10",
+      "competitor_name": "제타",
+      "fetched_at": "2026-08-13T00:14:51.766Z",
+      "fingerprint": "6dd10fdfa13a964b"
+    },
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.44.0",
+      "title": "Android 3.44.0 업데이트",
+      "body": "갑자기 SNS 내 게시물 업로드 저조? 알고보니... 제타, ‘크리에이터 피드’ 기능 출격!",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-08-07",
+      "competitor_name": "제타",
+      "fetched_at": "2026-08-13T00:14:51.766Z",
+      "fingerprint": "1e65a04a93672f7d"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.1.5",
+      "title": "iOS 2.1.5 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9D%B4%EC%84%B8%EA%B3%84-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-08-11",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-08-13T00:14:51.766Z",
+      "fingerprint": "3b8d5d1c87480e19"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.1.5",
+      "title": "Android 2.1.5 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-08-07",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-08-13T00:14:51.766Z",
+      "fingerprint": "6c4d187b142cfecd"
+    }
+  ],
+  "errors": []
+}
