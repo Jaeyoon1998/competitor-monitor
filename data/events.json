@@ -201,6 +201,21 @@
         { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1619030760" }
       ],
       "detected_on": "2026-08-07"
+    },
+    {
+      "id": "pling-2026-08-13-auto-chat",
+      "competitor_id": "pling",
+      "type": "update",
+      "title": "'채팅 자동진행' 기능 출시 (iOS 5.1.2)",
+      "summary": "플링이 iOS 5.1.2에서 입력 버튼만 누르면 다음 대사를 상황에 맞게 자동으로 이어주는 '채팅 자동진행' 기능을 출시. 다음 말을 고민하는 입력 마찰을 없애 대화 지속률을 높이려는 리텐션형 업데이트로, 최근 플레이챗(AI 채팅)·UGC 개방에 이은 채팅 UX 다듬기 단계로 보인다.",
+      "starts_on": "2026-08-13",
+      "ends_on": null,
+      "signals": ["입력 마찰 제거", "대화 지속률", "채팅 UX 개선"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" }
+      ],
+      "detected_on": "2026-08-14"
     }
   ]
 }

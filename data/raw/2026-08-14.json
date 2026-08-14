@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-14",
+  "collected_at": "2026-08-14T00:20:30.875Z",
+  "items": [
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.1.6",
+      "title": "iOS 2.1.6 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9D%B4%EC%84%B8%EA%B3%84-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-08-13",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-08-14T00:20:30.875Z",
+      "fingerprint": "ba66c5b882caf3a2"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.1.6",
+      "title": "Android 2.1.6 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-08-12",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-08-14T00:20:30.875Z",
+      "fingerprint": "50435366e6c5ce8f"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "appstore_release",
+      "external_id": "v5.1.2",
+      "title": "iOS 5.1.2 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n새로운 기능\n· 채팅 자동진행 : 다음 말을 고민할 필요 없어요! 입력 버튼만 눌러도 상황에 맞게 이야기가 자동으로 이어져요! \n\n멈춤 없는 로맨스 플레이, 플링.",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EB%A9%88%EC%B6%A4-%EC%97%86%EB%8A%94-%EB%A1%9C%EB%A7%A8%EC%8A%A4-%ED%94%8C%EB%A0%88%EC%9D%B4/id1497832962?uo=4",
+      "published_at": "2026-08-13",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-14T00:20:30.875Z",
+      "fingerprint": "0d79db24dff9eee0"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.34",
+      "title": "iOS 1.5.34 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-08-13",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-14T00:20:30.875Z",
+      "fingerprint": "3883f6cc981b6046"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.34",
+      "title": "Android 1.5.34 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-08-11",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-14T00:20:30.875Z",
+      "fingerprint": "e50c82ead9bab1be"
+    }
+  ],
+  "errors": []
+}
