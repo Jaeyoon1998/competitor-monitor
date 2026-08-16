@@ -221,14 +221,15 @@
       "id": "zeta-2026-08-14-global-plots",
       "competitor_id": "zeta",
       "type": "update",
-      "title": "전 세계 플롯 통합 + 프로필 상단 커버 출시 (Android 3.46.3)",
-      "summary": "제타가 안드로이드 3.46.3에서 전 세계 이용자의 플롯을 하나로 통합하고, 프로필 페이지 상단에 커버 이미지를 붙이는 기능을 출시. 글로벌 콘텐츠 풀을 한데 모아 발견성을 높이고 프로필을 꾸미게 하는 방향으로, 최근 크리에이터 피드·콘테스트·대댓글로 이어온 UGC·소셜 강화 흐름의 연장선이다. '플롯 통합'의 구체 범위는 릴리스 노트 문구 기반 해석이라 단정은 보류.",
+      "title": "전 세계 플롯 통합 + 프로필 상단 커버 출시 (Android 3.46.3 / iOS 3.46.3)",
+      "summary": "제타가 안드로이드 3.46.3에서 전 세계 이용자의 플롯을 하나로 통합하고, 프로필 페이지 상단에 커버 이미지를 붙이는 기능을 출시. iOS 3.46.3(8/14)에도 동일 반영돼 양 플랫폼 롤아웃이 완료됐다. 글로벌 콘텐츠 풀을 한데 모아 발견성을 높이고 프로필을 꾸미게 하는 방향으로, 최근 크리에이터 피드·콘테스트·대댓글로 이어온 UGC·소셜 강화 흐름의 연장선이다. '플롯 통합'의 구체 범위는 릴리스 노트 문구 기반 해석이라 단정은 보류.",
       "starts_on": "2026-08-14",
       "ends_on": null,
       "signals": ["글로벌 콘텐츠 통합", "프로필 커버", "UGC/소셜 강화"],
       "confidence": "medium",
       "evidence": [
-        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" }
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger" },
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1619030760" }
       ],
       "detected_on": "2026-08-15"
     }
