@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-17",
+  "collected_at": "2026-08-17T00:15:21.289Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "appstore_iap",
+      "external_id": "iap:5b17ca0d0770",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 25 플링 — ₩3,000\n- 25 플링 — ₩3,800\n- 25 플링 — ₩3,600\n- 50 플링 — ₩7,500\n- 50 플링 — ₩6,000\n- 50 플링 — ₩7,200\n- 100 플링 — ₩12,000\n- 150 플링 — ₩22,500\n- 100 플링 — ₩15,000\n- 100 플링 — ₩14,400",
+      "url": "https://apps.apple.com/kr/app/id1497832962",
+      "published_at": "2026-08-17",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-17T00:15:21.289Z",
+      "fingerprint": "2fdaa389ff0c883c"
+    }
+  ],
+  "errors": []
+}
