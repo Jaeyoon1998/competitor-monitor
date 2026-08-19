@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-19",
+  "collected_at": "2026-08-19T00:10:27.559Z",
+  "items": [
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.35",
+      "title": "iOS 1.5.35 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-08-18",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-19T00:10:27.559Z",
+      "fingerprint": "8814770547130e98"
+    }
+  ],
+  "errors": []
+}
