@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-22",
+  "collected_at": "2026-08-22T00:09:52.922Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.46.14",
+      "title": "Android 3.46.14 업데이트",
+      "body": "작지만 은근히 신경 쓰였던 부분들을 다듬었어요! 그나저나 콘테스트 본선 수상작 퀄리티 미쳤던데… 보셨나요? *귓속말로*",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-08-20",
+      "competitor_name": "제타",
+      "fetched_at": "2026-08-22T00:09:52.922Z",
+      "fingerprint": "cb4de4e70b86a3b1"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.1.8",
+      "title": "iOS 2.1.8 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9B%B9%EC%86%8C%EC%84%A4-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-08-21",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-08-22T00:09:52.922Z",
+      "fingerprint": "a6c4b8081c2a4e66"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.1.8",
+      "title": "Android 2.1.8 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-08-20",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-08-22T00:09:52.922Z",
+      "fingerprint": "cee391cf17ecd8fe"
+    },
+    {
+      "competitor_id": "babechat",
+      "source": "appstore_release",
+      "external_id": "v0.1.19",
+      "title": "iOS 0.1.19 업데이트",
+      "body": "앱 안정성을 개선하고 오류 상황에서의 동작을 보완했습니다.\n화면 전환과 페이지 이동이 한층 부드러워졌습니다.",
+      "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EB%B9%84%EC%B1%97-babechat-%ED%95%9C%EA%B3%84-%EC%97%86%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id6740225767?uo=4",
+      "published_at": "2026-08-21",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-08-22T00:09:52.922Z",
+      "fingerprint": "49df16a2b970a6e1"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_iap",
+      "external_id": "iap:92a4d48248d7",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n[추가]\n- 600 Creams — ₩1,500\n\n[현재 전체]\n- 크림 2,000개 — ₩4,400\n- 크림 14,000개 — ₩27,500\n- 크림 7,000개 — ₩13,800\n-  크림 8,000개 — ₩15,000\n- 크림 32,000개  — ₩62,000\n- 크림 70,000개  — ₩135,000\n- 크림 46,000개  — ₩83,000\n- 크림 24,000개 — ₩44,000\n- 600 Creams — ₩1,500",
+      "url": "https://apps.apple.com/kr/app/id6749137461",
+      "published_at": "2026-08-22",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-08-22T00:09:52.922Z",
+      "fingerprint": "cf112ef25504e2a2"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.36",
+      "title": "iOS 1.5.36 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-08-21",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-08-22T00:09:52.922Z",
+      "fingerprint": "47b862b14694b64f"
+    }
+  ],
+  "errors": []
+}

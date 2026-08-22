@@ -232,6 +232,21 @@
         { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1619030760" }
       ],
       "detected_on": "2026-08-15"
+    },
+    {
+      "id": "bagelchat-2026-08-22-entry-sku",
+      "competitor_id": "bagelchat",
+      "type": "promo",
+      "title": "최저가 진입 상품 신설 — 600크림 ₩1,500",
+      "summary": "베이글챗이 인앱 상품에 최저가 팩 '600 Creams ₩1,500'을 추가. 기존 최저가는 크림 2,000개 ₩4,400이었는데 그보다 낮은 소액 가격대를 새로 열었다. 첫 결제 문턱을 낮춰 소액 결제 전환을 늘리려는 움직임으로 보인다(가격 변경은 사실, 의도는 추정).",
+      "starts_on": "2026-08-22",
+      "ends_on": null,
+      "signals": ["최저가 진입 SKU", "₩1,500 소액 결제", "첫 결제 문턱 인하"],
+      "confidence": "medium",
+      "evidence": [
+        { "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6749137461" }
+      ],
+      "detected_on": "2026-08-22"
     }
   ]
 }
