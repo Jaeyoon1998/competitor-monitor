@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-25",
+  "collected_at": "2026-08-25T00:10:35.723Z",
+  "items": [
+    {
+      "competitor_id": "babechat",
+      "source": "play_release",
+      "external_id": "v0.1.19",
+      "title": "Android 0.1.19 업데이트",
+      "body": "- 최신 Android 기기와의 호환성을 개선했습니다.\n- 앱 안정성 및 성능을 개선했습니다.",
+      "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR",
+      "published_at": "2026-08-21",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-08-25T00:10:35.723Z",
+      "fingerprint": "0545618e6a13a8e0"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "appstore_iap",
+      "external_id": "iap:531d835871dc",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 25 플링 — ₩3,800\n- 25 플링 — ₩3,000\n- 50 플링 — ₩7,500\n- 25 플링 — ₩3,600\n- 50 플링 — ₩6,000\n- 150 플링 — ₩22,500\n- 50 플링 — ₩7,200\n- 100 플링 — ₩15,000\n- 100 플링 — ₩12,000\n- 100 플링 — ₩14,400",
+      "url": "https://apps.apple.com/kr/app/id1497832962",
+      "published_at": "2026-08-25",
+      "competitor_name": "플링",
+      "fetched_at": "2026-08-25T00:10:35.723Z",
+      "fingerprint": "c97eccc91741e77b"
+    }
+  ],
+  "errors": []
+}
