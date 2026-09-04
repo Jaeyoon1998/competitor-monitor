@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "collected_at": "2026-09-04T00:11:27.327Z",
+  "items": [
+    {
+      "competitor_id": "babechat",
+      "source": "appstore_iap",
+      "external_id": "iap:3ad7f10773ca",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 프로챗 6500 — ₩6,500\n- 프로챗 13000 — ₩13,000\n- 프로챗 37900 — ₩37,900\n- 프로챗 36000 — ₩36,000\n- 프로챗 28500 — ₩28,500\n- 프로챗 61500 — ₩61,500\n- 프로챗 129000 — ₩129,000\n- 프로챗 143000 — ₩143,000\n- 프로챗 11000 — ₩11,000\n- 프로챗 85900 — ₩85,900",
+      "url": "https://apps.apple.com/kr/app/id6740225767",
+      "published_at": "2026-09-04",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-09-04T00:11:27.327Z",
+      "fingerprint": "c5a761481e4dc983"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.41",
+      "title": "Android 1.5.41 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-09-03",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-04T00:11:27.327Z",
+      "fingerprint": "96eec9bd5427578c"
+    }
+  ],
+  "errors": []
+}
