@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-08",
+  "collected_at": "2026-09-08T00:10:59.948Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "appstore_release",
+      "external_id": "v5.2.0",
+      "title": "iOS 5.2.0 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅방 분기 : 사실 이렇게 말할걸.. 원하는 순간에 다른 선택을 해보세요! 새로운 대화, 새로운 이야기로 이어갈 수 있어요.\n· 채팅 답변 선택 : 어떤 답변이 더 마음에 드나요? 캐릭터 답변 중 마음에 드는 답변을 골라 이야기를 이어가 보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EC%97%AC%EC%84%B1%ED%96%A5-ai-%EC%B1%84%ED%8C%85-%EC%98%A4%EB%94%94%EC%98%A4%EB%93%9C%EB%9D%BC%EB%A7%88/id1497832962?uo=4",
+      "published_at": "2026-09-07",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-08T00:10:59.948Z",
+      "fingerprint": "0f4c3abad709f6c5"
+    }
+  ],
+  "errors": []
+}

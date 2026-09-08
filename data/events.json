@@ -247,6 +247,21 @@
         { "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6749137461" }
       ],
       "detected_on": "2026-08-22"
+    },
+    {
+      "id": "pling-2026-09-07-chat-branching",
+      "competitor_id": "pling",
+      "type": "update",
+      "title": "'채팅방 분기' + '채팅 답변 선택' 출시 (iOS 5.2.0)",
+      "summary": "플링이 iOS 5.2.0에서 원하는 순간에 다른 선택을 해 대화를 새로 갈래치는 '채팅방 분기'와, 캐릭터 답변 후보 중 마음에 드는 것을 골라 이어가는 '채팅 답변 선택'을 출시. 하나의 대화에서 여러 갈래·선택지를 제공해 재플레이와 몰입을 높이려는 인터랙티브 스토리형 업데이트로, 최근 채팅 자동진행·UGC 개방에 이은 채팅 UX 심화 단계로 보인다.",
+      "starts_on": "2026-09-07",
+      "ends_on": null,
+      "signals": ["대화 분기/선택지", "재플레이 강화", "채팅 UX 심화"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" }
+      ],
+      "detected_on": "2026-09-08"
     }
   ]
 }
