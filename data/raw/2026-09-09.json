@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-09",
+  "collected_at": "2026-09-09T00:10:42.886Z",
+  "items": [
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.42",
+      "title": "Android 1.5.42 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-09-04",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-09T00:10:42.886Z",
+      "fingerprint": "b7f3ab62118d10f7"
+    }
+  ],
+  "errors": []
+}
