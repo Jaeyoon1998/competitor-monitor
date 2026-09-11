@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-11",
+  "collected_at": "2026-09-11T00:10:44.196Z",
+  "items": [
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_release",
+      "external_id": "v1.0.8",
+      "title": "iOS 1.0.8 업데이트",
+      "body": "새로운 스토리와 이벤트 소식을 빠르게 드리기 위해 푸시 알림 기능을 추가하고,\n앱 안정성을 개선하고 여러 오류를 수정했어요!",
+      "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EA%B8%80%EC%B1%97-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6749137461?uo=4",
+      "published_at": "2026-09-10",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-09-11T00:10:44.196Z",
+      "fingerprint": "c4f8b1fbb2edeaf9"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "source": "play_release",
+      "external_id": "v1.0.8",
+      "title": "Android 1.0.8 업데이트",
+      "body": "새로운 스토리와 이벤트 소식을 빠르게 드리기 위해 푸시 알림 기능을 추가하고,\n앱 안정성을 개선하고 여러 오류를 수정했어요!",
+      "url": "https://play.google.com/store/apps/details?id=com.konrev.bagelchat&hl=ko&gl=KR",
+      "published_at": "2026-09-04",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-09-11T00:10:44.196Z",
+      "fingerprint": "63a0e815630cfd28"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.2.2",
+      "title": "Android 3.2.2 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅방 분기 : 사실 이렇게 말할걸.. 원하는 순간에 다른 선택을 해보세요! 새로운 대화, 새로운 이야기로 이어갈 수 있어요.\n· 채팅 답변 선택 : 어떤 답변이 더 마음에 드나요? 캐릭터 답변 중 마음에 드는 답변을 골라 이야기를 이어가 보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-09-10",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-11T00:10:44.196Z",
+      "fingerprint": "8e5811a34a717100"
+    }
+  ],
+  "errors": []
+}

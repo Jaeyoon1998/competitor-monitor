@@ -259,7 +259,8 @@
       "signals": ["대화 분기/선택지", "재플레이 강화", "채팅 UX 심화"],
       "confidence": "high",
       "evidence": [
-        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" }
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" },
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR" }
       ],
       "detected_on": "2026-09-08"
     }
