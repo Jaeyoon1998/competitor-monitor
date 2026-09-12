@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-12",
+  "collected_at": "2026-09-12T00:09:25.480Z",
+  "items": [
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_iap",
+      "external_id": "iap:6191b43f6f5f",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 크림 2,000개 — ₩4,400\n- 크림 14,000개 — ₩27,500\n- 크림 7,000개 — ₩13,800\n-  크림 8,000개 — ₩15,000\n- 크림 32,000개  — ₩62,000\n- 크림 70,000개  — ₩135,000\n- 크림 46,000개  — ₩83,000\n- 600 Creams — ₩1,500\n- 크림 24,000개 — ₩44,000",
+      "url": "https://apps.apple.com/kr/app/id6749137461",
+      "published_at": "2026-09-12",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-09-12T00:09:25.480Z",
+      "fingerprint": "84bfef3c771f83e1"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.44",
+      "title": "Android 1.5.44 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-09-09",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-12T00:09:25.480Z",
+      "fingerprint": "c0b9c8427d8a51bc"
+    }
+  ],
+  "errors": []
+}
