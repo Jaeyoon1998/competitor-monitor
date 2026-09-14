@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-14",
+  "collected_at": "2026-09-14T00:09:53.924Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.49.2",
+      "title": "iOS 3.49.2 업데이트",
+      "body": "매번 이곳까지 챙겨봐주시어 감사합니다. 작은 보답으로 거슬리던 버그들을 박멸하고 성능을 개선했습니다.",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-09-13",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-14T00:09:53.924Z",
+      "fingerprint": "57e784626a89e352"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.2.4",
+      "title": "Android 3.2.4 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅방 분기 : 사실 이렇게 말할걸.. 원하는 순간에 다른 선택을 해보세요! 새로운 대화, 새로운 이야기로 이어갈 수 있어요.\n· 채팅 답변 선택 : 어떤 답변이 더 마음에 드나요? 캐릭터 답변 중 마음에 드는 답변을 골라 이야기를 이어가 보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-09-13",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-14T00:09:53.924Z",
+      "fingerprint": "b41c3dfb03e5b39e"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_iap",
+      "external_id": "iap:983d1f173e7c",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 3,300원어치 잼 — ₩3,300\n- 3,300원어치 잼 — ₩3,300\n- 5,500원 어치 잼 — ₩5,500\n- 9,900원 어치 잼 — ₩9,900\n- 6,600원 어치 잼 — ₩6,600\n- 5,500원 어치 잼 — ₩5,500\n- 9,900원 어치 잼 — ₩9,900\n- 12,900원 어치 잼 — ₩12,900\n- 17,000원 어치 잼 — ₩17,000\n- 12,900원 어치 잼 — ₩12,900",
+      "url": "https://apps.apple.com/kr/app/id6468766519",
+      "published_at": "2026-09-14",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-14T00:09:53.924Z",
+      "fingerprint": "5822a9ea4f2a6010"
+    }
+  ],
+  "errors": []
+}

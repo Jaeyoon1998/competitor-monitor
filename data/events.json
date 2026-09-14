@@ -263,6 +263,19 @@
         { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR" }
       ],
       "detected_on": "2026-09-08"
+    },
+    {
+      "id": "loveydovey-2026-09-14-mid-tier-up",
+      "competitor_id": "loveydovey",
+      "type": "promo",
+      "title": "잼 노출 구성 상향 — ₩6,600 슬롯이 ₩12,900로 교체",
+      "summary": "러비더비 App Store 상위 노출 인앱 상품에서 중복 노출되던 '6,600원어치 잼(₩6,600)' 슬롯 하나가 빠지고 '12,900원어치 잼(₩12,900)'이 하나 더 노출되도록 바뀌었다(중복 노출 금액대가 ₩3,300·₩5,500·₩6,600·₩9,900 → ₩3,300·₩5,500·₩9,900·₩12,900). 개별 상품 가격이 내려간 할인은 아니며 최고가 팩은 여전히 ₩17,000이다. 신규 SKU 없이 노출 구성만 바뀐 것이라 중간가대를 살짝 끌어올린 것이거나 스토어 노출 순서 변동일 수 있어 단정은 보류. (수집기 set 기반 diff 로는 [추가]/[삭제]가 잡히지 않아 git 히스토리로 수동 대조함.)",
+      "starts_on": "2026-09-14",
+      "ends_on": null,
+      "signals": ["중간가 슬롯 상향", "₩6,600→₩12,900 노출 교체", "가격 변동 아님", "저신뢰/추정"],
+      "confidence": "low",
+      "evidence": [{ "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6468766519" }],
+      "detected_on": "2026-09-14"
     }
   ]
 }
