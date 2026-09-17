@@ -276,6 +276,22 @@
       "confidence": "low",
       "evidence": [{ "source": "appstore_iap", "url": "https://apps.apple.com/kr/app/id6468766519" }],
       "detected_on": "2026-09-14"
+    },
+    {
+      "id": "zeta-2026-09-16-plugin-ecosystem",
+      "competitor_id": "zeta",
+      "type": "update",
+      "title": "플러그인 생태계 부각 (v3.49.21)",
+      "summary": "제타가 iOS·Android 3.49.21 릴리스 노트에서 '요새 부쩍 쏟아져 나오는 플러그인들'을 전면에 내세웠다. 특정 신기능을 날짜와 함께 공지한 것이 아니라 플러그인이 계속 늘고 있음을 홍보하는 캐주얼한 문구로, 크리에이터 콘테스트·제작 프롬프트 확대·크리에이터 피드에 이은 UGC/확장성 축의 연장으로 해석된다. 다만 릴리스 노트 문구만으로는 신규 플러그인 시스템 출시인지 기존 생태계 홍보인지 단정하기 어려워 신뢰도는 medium.",
+      "starts_on": "2026-09-16",
+      "ends_on": null,
+      "signals": ["플러그인 생태계", "확장성/UGC 축", "릴리스 노트 홍보", "medium 추정"],
+      "confidence": "medium",
+      "evidence": [
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1619030760" },
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR" }
+      ],
+      "detected_on": "2026-09-17"
     }
   ]
 }

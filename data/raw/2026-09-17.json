@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "collected_at": "2026-09-17T00:09:30.738Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.49.21",
+      "title": "iOS 3.49.21 업데이트",
+      "body": "요새 부쩍 쏟아져 나오는 플러그인들로 잠 못 이루는 개발자 아니 제타 유저들…! 많이들 쓰고 계시죠..?",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-09-16",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-17T00:09:30.738Z",
+      "fingerprint": "14a686c1483a114b"
+    },
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.49.21",
+      "title": "Android 3.49.21 업데이트",
+      "body": "요새 부쩍 쏟아져 나오는 플러그인들로 잠 못 이루는 개발자 아니 제타 유저들…! 많이들 쓰고 계시죠..?",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-09-16",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-17T00:09:30.738Z",
+      "fingerprint": "98caae61e6cb6331"
+    }
+  ],
+  "errors": []
+}
