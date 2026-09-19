@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "collected_at": "2026-09-19T00:09:50.389Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.2.5",
+      "title": "Android 3.2.5 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅방 분기 : 사실 이렇게 말할걸.. 원하는 순간에 다른 선택을 해보세요! 새로운 대화, 새로운 이야기로 이어갈 수 있어요.\n· 채팅 답변 선택 : 어떤 답변이 더 마음에 드나요? 캐릭터 답변 중 마음에 드는 답변을 골라 이야기를 이어가 보세요!\n· 폴더블 화면 지원 : 접었다 펼치면 화면이 어색했죠? 이제 폴더블·태블릿의 큰 화면에 딱 맞춰 정돈된 플링을 만나보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-09-18",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-19T00:09:50.389Z",
+      "fingerprint": "fd73fab72755d2ba"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "crack",
+      "collector": "youtube",
+      "error": "HTTP 404 https://www.youtube.com/feeds/videos.xml?channel_id=UC6TNOlKhBTLRGlTWQ33lbFg"
+    }
+  ]
+}
