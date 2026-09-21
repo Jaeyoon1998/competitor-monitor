@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-21",
+  "collected_at": "2026-09-21T00:09:47.487Z",
+  "items": [],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "HTTP 429 https://apps.apple.com/kr/app/id1619030760"
+    }
+  ]
+}
