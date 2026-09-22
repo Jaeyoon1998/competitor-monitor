@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-22",
+  "collected_at": "2026-09-22T00:09:14.503Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.49.38",
+      "title": "Android 3.49.38 업데이트",
+      "body": "여름 지나면 없어질 줄 알았던 버그를 잡았습니다. 해치웠나?",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-09-21",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-22T00:09:14.503Z",
+      "fingerprint": "4814f48ce59b724b"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.2.6",
+      "title": "Android 3.2.6 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅방 분기 : 사실 이렇게 말할걸.. 원하는 순간에 다른 선택을 해보세요! 새로운 대화, 새로운 이야기로 이어갈 수 있어요.\n· 채팅 답변 선택 : 어떤 답변이 더 마음에 드나요? 캐릭터 답변 중 마음에 드는 답변을 골라 이야기를 이어가 보세요!\n· 폴더블 화면 지원 : 접었다 펼치면 화면이 어색했죠? 이제 폴더블·태블릿의 큰 화면에 딱 맞춰 정돈된 플링을 만나보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-09-21",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-22T00:09:14.503Z",
+      "fingerprint": "e4d67ac9006b15d6"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.47",
+      "title": "Android 1.5.47 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-09-17",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-22T00:09:14.503Z",
+      "fingerprint": "16d777636214fa31"
+    }
+  ],
+  "errors": []
+}
