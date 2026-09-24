@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-24",
+  "collected_at": "2026-09-24T00:06:13.450Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.49.47",
+      "title": "iOS 3.49.47 업데이트",
+      "body": "여름 지나면 없어질 줄 알았던 버그를 잡았습니다. 해치웠나?",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-09-22",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-24T00:06:13.450Z",
+      "fingerprint": "bcdaf4bb208f9ac1"
+    },
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.49.55",
+      "title": "Android 3.49.55 업데이트",
+      "body": "여름 지나면 없어질 줄 알았던 버그를 잡았습니다. 해치웠나?",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-09-22",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-24T00:06:13.450Z",
+      "fingerprint": "aeafba670f66af00"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.48",
+      "title": "iOS 1.5.48 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-09-23",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-24T00:06:13.450Z",
+      "fingerprint": "f32a23c49b30e0c7"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.48",
+      "title": "Android 1.5.48 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-09-21",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-24T00:06:13.450Z",
+      "fingerprint": "6022ecfdd95078d1"
+    }
+  ],
+  "errors": []
+}
