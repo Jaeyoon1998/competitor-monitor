@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-25",
+  "collected_at": "2026-09-25T00:07:47.163Z",
+  "items": [
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.2.2",
+      "title": "iOS 2.2.2 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9B%B9%EC%86%8C%EC%84%A4-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-09-24",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-09-25T00:07:47.163Z",
+      "fingerprint": "4bd9505af13dd87d"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.2.2",
+      "title": "Android 2.2.2 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-09-23",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-09-25T00:07:47.163Z",
+      "fingerprint": "cb1820fb23933d72"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "appstore_release",
+      "external_id": "v5.2.1",
+      "title": "iOS 5.2.1 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n· 안정적인 서비스를 위해 앱 구석구석 살펴 기능과 성능을 개선했어요.\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EC%97%AC%EC%84%B1%ED%96%A5-ai-%EC%B1%84%ED%8C%85-%EC%98%A4%EB%94%94%EC%98%A4%EB%93%9C%EB%9D%BC%EB%A7%88/id1497832962?uo=4",
+      "published_at": "2026-09-24",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-25T00:07:47.163Z",
+      "fingerprint": "ad17d273c5426d1e"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.2.7",
+      "title": "Android 3.2.7 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅방 분기 : 사실 이렇게 말할걸.. 원하는 순간에 다른 선택을 해보세요! 새로운 대화, 새로운 이야기로 이어갈 수 있어요.\n· 채팅 답변 선택 : 어떤 답변이 더 마음에 드나요? 캐릭터 답변 중 마음에 드는 답변을 골라 이야기를 이어가 보세요!\n· 폴더블 화면 지원 : 접었다 펼치면 화면이 어색했죠? 이제 폴더블·태블릿의 큰 화면에 딱 맞춰 정돈된 플링을 만나보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-09-24",
+      "competitor_name": "플링",
+      "fetched_at": "2026-09-25T00:07:47.163Z",
+      "fingerprint": "2a4c5e72b3d789dd"
+    }
+  ],
+  "errors": []
+}
