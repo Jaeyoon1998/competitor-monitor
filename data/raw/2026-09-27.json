@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-27",
+  "collected_at": "2026-09-27T00:06:24.387Z",
+  "items": [
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_iap",
+      "external_id": "iap:82b83c7df17f",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 크림 2,000개 — ₩4,400\n- 크림 14,000개 — ₩27,500\n- 크림 7,000개 — ₩13,800\n-  크림 8,000개 — ₩15,000\n- 크림 32,000개  — ₩62,000\n- 크림 70,000개  — ₩135,000\n- 크림 24,000개 — ₩44,000\n- 크림 46,000개  — ₩83,000\n- 600 Creams — ₩1,500",
+      "url": "https://apps.apple.com/kr/app/id6749137461",
+      "published_at": "2026-09-27",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-09-27T00:06:24.387Z",
+      "fingerprint": "0886fcf792a6ffc7"
+    }
+  ],
+  "errors": []
+}
