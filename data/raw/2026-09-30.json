@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-30",
+  "collected_at": "2026-09-30T00:07:01.700Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.50.2",
+      "title": "Android 3.50.2 업데이트",
+      "body": "해치우는 버그란 없더군요… 노력만 있을 뿐. 명절 끝나자마자 버그를 다시 수정했습니다. 이 자식들 언제쯤 싹다 전멸시킬지…",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-09-28",
+      "competitor_name": "제타",
+      "fetched_at": "2026-09-30T00:07:01.700Z",
+      "fingerprint": "bbac58b5d2516980"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_iap",
+      "external_id": "iap:fe0728087237",
+      "title": "인앱 상품 구성·가격 변경",
+      "body": "인앱 상품 구성이 바뀌었습니다.\n\n\n[현재 전체]\n- 3,300원어치 잼 — ₩3,300\n- 3,300원어치 잼 — ₩3,300\n- 5,500원 어치 잼 — ₩5,500\n- 9,900원 어치 잼 — ₩9,900\n- 6,600원 어치 잼 — ₩6,600\n- 9,900원 어치 잼 — ₩9,900\n- 5,500원 어치 잼 — ₩5,500\n- 12,900원 어치 잼 — ₩12,900\n- 17,000원 어치 잼 — ₩17,000\n- 6,600원 어치 잼 — ₩6,600",
+      "url": "https://apps.apple.com/kr/app/id6468766519",
+      "published_at": "2026-09-30",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-09-30T00:07:01.700Z",
+      "fingerprint": "386deccdff2bf4cf"
+    }
+  ],
+  "errors": []
+}
