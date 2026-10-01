@@ -292,6 +292,21 @@
         { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR" }
       ],
       "detected_on": "2026-09-17"
+    },
+    {
+      "id": "babechat-2026-09-22-v0120-gallery-save",
+      "competitor_id": "babechat",
+      "type": "update",
+      "title": "안드로이드 0.1.20 — AI 이미지 갤러리 저장 등 기능 추가",
+      "summary": "베이비챗이 안드로이드 0.1.20에서 AI로 만든 이미지를 기기 갤러리에 바로 저장하는 기능과 외부 링크 열 때 브라우저를 선택하는 기능을 추가했다(그 외 입력 화면 사용성·안정성 개선). 기능 자체는 소소한 QoL이지만, 4월 이후 안정성 개선만 있고 기능 업데이트가 없다고 기록해둔 베이비챗이 오랜만에 실제 기능을 움직였다는 점이 신호다. 생성 이미지를 기기에 내보내게 열어준 것이라 이미지 생성 결과물 활용·공유를 밀어보려는 흐름일 수 있다(의도는 추정).",
+      "starts_on": "2026-09-22",
+      "ends_on": null,
+      "signals": ["베타 정체 후 기능 재개", "AI 이미지 갤러리 저장", "소소한 QoL", "의도 추정"],
+      "confidence": "medium",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR" }
+      ],
+      "detected_on": "2026-10-01"
     }
   ]
 }

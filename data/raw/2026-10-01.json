@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-01",
+  "collected_at": "2026-10-01T00:06:32.392Z",
+  "items": [
+    {
+      "competitor_id": "babechat",
+      "source": "play_release",
+      "external_id": "v0.1.20",
+      "title": "Android 0.1.20 업데이트",
+      "body": "- AI로 만든 이미지를 기기 갤러리에 바로 저장할 수 있어요\n- 외부 링크를 열 때 브라우저를 선택할 수 있어요\n- 입력 화면 사용성 개선 및 안정성 향상",
+      "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR",
+      "published_at": "2026-09-22",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-10-01T00:06:32.392Z",
+      "fingerprint": "273d361802935fa7"
+    }
+  ],
+  "errors": []
+}
