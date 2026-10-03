@@ -307,6 +307,21 @@
         { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR" }
       ],
       "detected_on": "2026-10-01"
+    },
+    {
+      "id": "pling-2026-10-02-chat-theme",
+      "competitor_id": "pling",
+      "type": "update",
+      "title": "채팅 화면 테마 꾸미기 + 폴더블/태블릿 지원 (Android 3.2.10)",
+      "summary": "플링이 안드로이드 3.2.10에서 색상 테마·글자 크기·줄간격을 직접 조절해 채팅 화면을 꾸미는 기능과 폴더블·태블릿 큰 화면 최적화를 추가했다. 자동진행·분기·답변 선택으로 이어온 채팅 UX 다듬기 흐름의 연장선에서 이번엔 화면 개인화와 기기 커버리지를 넓힌 QoL 업데이트로 보인다(의도는 추정).",
+      "starts_on": "2026-10-02",
+      "ends_on": null,
+      "signals": ["채팅 화면 개인화", "폴더블/태블릿 지원", "채팅 UX QoL", "의도 추정"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR" }
+      ],
+      "detected_on": "2026-10-03"
     }
   ]
 }
