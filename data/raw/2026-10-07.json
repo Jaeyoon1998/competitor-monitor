@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-07",
+  "collected_at": "2026-10-07T00:07:15.416Z",
+  "items": [
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_release",
+      "external_id": "v1.0.9",
+      "title": "iOS 1.0.9 업데이트",
+      "body": "소소한 버그를 고치고 사용성을 개선했어요.",
+      "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EA%B8%80%EC%B1%97-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6749137461?uo=4",
+      "published_at": "2026-10-06",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-10-07T00:07:15.416Z",
+      "fingerprint": "7f1adcf7d166fc6b"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "source": "play_release",
+      "external_id": "v1.0.9",
+      "title": "Android 1.0.9 업데이트",
+      "body": "소소한 버그를 고치고 사용성을 개선했어요",
+      "url": "https://play.google.com/store/apps/details?id=com.konrev.bagelchat&hl=ko&gl=KR",
+      "published_at": "2026-10-02",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-10-07T00:07:15.416Z",
+      "fingerprint": "57744bcb279adc7c"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
