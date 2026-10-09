@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-09",
+  "collected_at": "2026-10-09T00:06:31.299Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.3.0",
+      "title": "Android 3.3.0 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 편안하고 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 채팅 화면 테마 : 내 취향에 맞게 채팅 화면을 꾸며보세요. 색상 테마부터 글자 크기, 줄간격까지 직접 조절해 더욱 편안한 대화 환경을 설정할 수 있어요.\n· 폴더블 화면 지원 : 접었다 펼치면 화면이 어색했죠? 이제 폴더블·태블릿의 큰 화면에 딱 맞춰 정돈된 플링을 만나보세요!\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-10-07",
+      "competitor_name": "플링",
+      "fetched_at": "2026-10-09T00:06:31.299Z",
+      "fingerprint": "20e1db904536563c"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
