@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-11",
+  "collected_at": "2026-10-11T00:06:26.833Z",
+  "items": [],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "youtube",
+      "error": "HTTP 404 https://www.youtube.com/feeds/videos.xml?channel_id=UC6TNOlKhBTLRGlTWQ33lbFg"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
