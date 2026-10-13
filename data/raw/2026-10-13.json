@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-13",
+  "collected_at": "2026-10-13T00:06:43.692Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "appstore_release",
+      "external_id": "v5.2.3",
+      "title": "iOS 5.2.3 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n· 안정적인 서비스를 위해 앱 구석구석 살펴 기능과 성능을 개선했어요.\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EC%97%AC%EC%84%B1%ED%96%A5-ai-%EC%B1%84%ED%8C%85-%EC%98%A4%EB%94%94%EC%98%A4%EB%93%9C%EB%9D%BC%EB%A7%88/id1497832962?uo=4",
+      "published_at": "2026-10-12",
+      "competitor_name": "플링",
+      "fetched_at": "2026-10-13T00:06:43.692Z",
+      "fingerprint": "ed2526d93df5c56f"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.52",
+      "title": "iOS 1.5.52 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-%EC%83%81%EC%83%81-%EC%86%8D-%EA%B7%B8-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8D%B8%EB%B6%80%ED%84%B0-%EA%B2%B0%ED%98%BC%EA%B9%8C%EC%A7%80/id6468766519?uo=4",
+      "published_at": "2026-10-12",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-10-13T00:06:43.692Z",
+      "fingerprint": "d7fd7c5bc0c7432d"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.52",
+      "title": "Android 1.5.52 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-10-07",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-10-13T00:06:43.692Z",
+      "fingerprint": "7dfd8a2b0da0cc91"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "youtube",
+      "error": "HTTP 404 https://www.youtube.com/feeds/videos.xml?channel_id=UC6TNOlKhBTLRGlTWQ33lbFg"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
