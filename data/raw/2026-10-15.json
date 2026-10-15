@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-15",
+  "collected_at": "2026-10-15T00:06:27.475Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "appstore_release",
+      "external_id": "v3.50.28",
+      "title": "iOS 3.50.28 업데이트",
+      "body": "아시안게임에 버그잡기 종목 있으면 금메달 싹쓸이할텐데. (늘 그렇듯 버그 열심히 잡았다는 뜻ㅎ)",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%9C%ED%83%80-zeta-%EC%83%81%EC%83%81%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%98%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id1619030760?uo=4",
+      "published_at": "2026-10-13",
+      "competitor_name": "제타",
+      "fetched_at": "2026-10-15T00:06:27.475Z",
+      "fingerprint": "9cdf66f280fe3297"
+    },
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.50.56",
+      "title": "Android 3.50.56 업데이트",
+      "body": "마침내… 제타의 대명절 할로윈 시즌이 다가옵니다. 기기묘묘하게 바뀔 제타의 구석구석을 확인해 보세요.",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-10-14",
+      "competitor_name": "제타",
+      "fetched_at": "2026-10-15T00:06:27.475Z",
+      "fingerprint": "ed9cf9263916024c"
+    },
+    {
+      "competitor_id": "babechat",
+      "source": "play_release",
+      "external_id": "v0.1.21",
+      "title": "Android 0.1.21 업데이트",
+      "body": "- 알림이 켜져 있는데도 꺼진 것으로 표시되던 문제를 수정했어요\n- 앱 안정성을 개선했어요",
+      "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR",
+      "published_at": "2026-10-01",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-10-15T00:06:27.475Z",
+      "fingerprint": "d18813efe5b87517"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "youtube",
+      "error": "HTTP 404 https://www.youtube.com/feeds/videos.xml?channel_id=UC6TNOlKhBTLRGlTWQ33lbFg"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}

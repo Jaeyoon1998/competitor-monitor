@@ -323,6 +323,21 @@
         { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/id1497832962" }
       ],
       "detected_on": "2026-10-03"
+    },
+    {
+      "id": "zeta-2026-10-14-halloween-season",
+      "competitor_id": "zeta",
+      "type": "event",
+      "title": "할로윈 시즌 예고 (Android 3.50.56)",
+      "summary": "제타가 안드로이드 3.50.56 릴리스 노트에서 '제타의 대명절 할로윈 시즌이 다가옵니다. 기기묘묘하게 바뀔 제타의 구석구석을 확인해 보세요'라며 할로윈 시즌을 예고했다. 기간·보상이 명시되지 않은 예고성 문구라 구체 구성은 아직 알 수 없으나, 앱 전반을 시즌 테마로 꾸미는 기간제 시즌 이벤트로 보인다. 지난해 흐름대로라면 할로윈 전후(10월 하순) 운영될 가능성이 높다(기간은 추정). UGC·소셜 강화에 더해 시즌 테마로 재방문을 끌어올리려는 움직임.",
+      "starts_on": "2026-10-14",
+      "ends_on": null,
+      "signals": ["할로윈 시즌", "시즌제 테마 이벤트", "기간/보상 미명시", "예고 단계"],
+      "confidence": "medium",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR" }
+      ],
+      "detected_on": "2026-10-15"
     }
   ]
 }
