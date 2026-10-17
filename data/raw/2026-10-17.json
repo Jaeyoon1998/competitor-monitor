@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-17",
+  "collected_at": "2026-10-17T00:06:40.042Z",
+  "items": [
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.54",
+      "title": "Android 1.5.54 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-10-14",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-10-17T00:06:40.042Z",
+      "fingerprint": "8505892f50f9c916"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "youtube",
+      "error": "HTTP 404 https://www.youtube.com/feeds/videos.xml?channel_id=UC6TNOlKhBTLRGlTWQ33lbFg"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
