@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-25",
+  "collected_at": "2026-10-25T00:04:25.663Z",
+  "items": [
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.2.3",
+      "title": "Android 2.2.3 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-10-21",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-10-25T00:04:25.663Z",
+      "fingerprint": "550eae808feaf719"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
