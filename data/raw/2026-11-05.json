@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-05",
+  "collected_at": "2026-11-05T00:04:10.551Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.51.63",
+      "title": "Android 3.51.63 업데이트",
+      "body": "할로윈 샤타 내리고 까맣게 돌아온 제타입니다. 자잘한 버그를 수정하고 앱을 정리했습니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-11-04",
+      "competitor_name": "제타",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "106a0abb9d6a8e89"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.2.4",
+      "title": "iOS 2.2.4 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9B%B9%EC%86%8C%EC%84%A4-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-10-30",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "24661516e14158a8"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.2.4",
+      "title": "Android 2.2.4 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-10-29",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "1487abc339b9f25d"
+    },
+    {
+      "competitor_id": "babechat",
+      "source": "appstore_release",
+      "external_id": "v0.1.22",
+      "title": "iOS 0.1.22 업데이트",
+      "body": "- AI로 만든 이미지를 기기 갤러리에 바로 저장할 수 있어요\n- 외부 링크를 열 때 브라우저를 선택할 수 있어요\n- 알림 설정 화면이 기기 알림 상태를 정확히 보여줘요\n- 입력 화면 사용성 개선 및 안정성 향상",
+      "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EB%B9%84%EC%B1%97-babechat-%ED%95%9C%EA%B3%84-%EC%97%86%EB%8A%94-ai-%EC%B1%84%ED%8C%85/id6740225767?uo=4",
+      "published_at": "2026-11-02",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "ac2e44229d7308b0"
+    },
+    {
+      "competitor_id": "babechat",
+      "source": "play_release",
+      "external_id": "v0.1.22",
+      "title": "Android 0.1.22 업데이트",
+      "body": "- 알림 설정 화면 개선\n- 앱 안정성 및 성능 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.babechat.app&hl=ko&gl=KR",
+      "published_at": "2026-10-14",
+      "competitor_name": "베이비챗",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "0be292fe1c6875ad"
+    },
+    {
+      "competitor_id": "pling",
+      "source": "appstore_release",
+      "external_id": "v5.2.4",
+      "title": "iOS 5.2.4 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n· 안정적인 서비스를 위해 앱 구석구석 살펴 기능과 성능을 개선했어요.\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EC%97%AC%EC%84%B1%ED%96%A5-ai-%EC%B1%84%ED%8C%85-%EC%98%A4%EB%94%94%EC%98%A4%EB%93%9C%EB%9D%BC%EB%A7%88/id1497832962?uo=4",
+      "published_at": "2026-10-30",
+      "competitor_name": "플링",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "46191079021dcc0f"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.62",
+      "title": "iOS 1.5.62 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6468766519?uo=4",
+      "published_at": "2026-11-04",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "54b89a35fead154c"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.62",
+      "title": "Android 1.5.62 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-11-03",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-11-05T00:04:10.551Z",
+      "fingerprint": "69d2f27ce12efd18"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "youtube",
+      "error": "HTTP 404 https://www.youtube.com/feeds/videos.xml?channel_id=UC6TNOlKhBTLRGlTWQ33lbFg"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
