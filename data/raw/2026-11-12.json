@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-12",
+  "collected_at": "2026-11-12T00:04:23.156Z",
+  "items": [
+    {
+      "competitor_id": "crack",
+      "source": "appstore_release",
+      "external_id": "v2.2.6",
+      "title": "iOS 2.2.6 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://apps.apple.com/kr/app/%ED%81%AC%EB%9E%99-%EB%82%B4%EA%B0%80-%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B8-%EC%9B%B9%EC%86%8C%EC%84%A4-ai-%EC%B1%84%ED%8C%85/id6740223370?uo=4",
+      "published_at": "2026-11-11",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-11-12T00:04:23.156Z",
+      "fingerprint": "428b71cd93e3e133"
+    },
+    {
+      "competitor_id": "crack",
+      "source": "play_release",
+      "external_id": "v2.2.5",
+      "title": "Android 2.2.5 업데이트",
+      "body": "[크랙 업데이트 안내]\n\n- 소소한 버그를 개선했어요.\n\n감사합니다.",
+      "url": "https://play.google.com/store/apps/details?id=com.wrtn.character&hl=ko&gl=KR",
+      "published_at": "2026-11-10",
+      "competitor_name": "크랙",
+      "fetched_at": "2026-11-12T00:04:23.156Z",
+      "fingerprint": "a94b22addc42deb3"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.65",
+      "title": "iOS 1.5.65 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6468766519?uo=4",
+      "published_at": "2026-11-10",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-11-12T00:04:23.156Z",
+      "fingerprint": "aa1e90c67bf48a34"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.65",
+      "title": "Android 1.5.65 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-11-09",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-11-12T00:04:23.156Z",
+      "fingerprint": "b982ba51f8d619d4"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore",
+      "error": "App Store에서 id=1619030760 를 찾지 못함"
+    },
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "HTTP 404 https://apps.apple.com/kr/app/id1619030760"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "play",
+      "error": "HTTP 404 https://play.google.com/store/apps/details?id=com.konrev.bagelchat&hl=ko&gl=KR"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
