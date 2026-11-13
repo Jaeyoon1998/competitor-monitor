@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-13",
+  "collected_at": "2026-11-13T00:04:18.869Z",
+  "items": [
+    {
+      "competitor_id": "loveydovey",
+      "source": "appstore_release",
+      "external_id": "v1.5.66",
+      "title": "iOS 1.5.66 업데이트",
+      "body": "소소한 버그 수정 및 사용성 개선",
+      "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B9%84%EB%8D%94%EB%B9%84-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6468766519?uo=4",
+      "published_at": "2026-11-12",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-11-13T00:04:18.869Z",
+      "fingerprint": "5dd08c90622acbbb"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "source": "play_release",
+      "external_id": "v1.5.66",
+      "title": "Android 1.5.66 업데이트",
+      "body": "- 소소한 버그 수정 및 사용성 개선",
+      "url": "https://play.google.com/store/apps/details?id=ai.tain.reelso&hl=ko&gl=KR",
+      "published_at": "2026-11-11",
+      "competitor_name": "러비더비",
+      "fetched_at": "2026-11-13T00:04:18.869Z",
+      "fingerprint": "79a929a59074539b"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore",
+      "error": "App Store에서 id=1619030760 를 찾지 못함"
+    },
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "HTTP 404 https://apps.apple.com/kr/app/id1619030760"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "play",
+      "error": "HTTP 404 https://play.google.com/store/apps/details?id=com.konrev.bagelchat&hl=ko&gl=KR"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
