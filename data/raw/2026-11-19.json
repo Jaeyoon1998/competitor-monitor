@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-19",
+  "collected_at": "2026-11-19T00:04:27.839Z",
+  "items": [
+    {
+      "competitor_id": "bagelchat",
+      "source": "appstore_release",
+      "external_id": "v1.0.12",
+      "title": "iOS 1.0.12 업데이트",
+      "body": "베이글챗이 새로워졌어요!!\n\n• 새로워진 디자인\n홈부터 채팅방까지 화면을 새로 다듬었어요. 지금 주목받는 스토리를 홈 상단에서 바로 만나보세요.\n\n• 태블릿 지원\n넓은 화면에서도 편하게 즐길 수 있어요. 옆 메뉴로 채팅방 목록과 대화를 한 화면에서 오갈 수 있어요.\n\n• 즐겨찾기\n자주 찾는 채팅방을 채팅방 목록 맨 위에 고정해 보세요. 최대 20개까지 할 수 있어요.\n\n• 추천 답변 자동 받기\n'자동 받기'를 켜면 캐릭터가 답할 때마다 추천 답변이 자동으로 준비돼요.\n\n• 채팅방 복사\n원하는 메시지까지 채팅방을 복사해, 새 채팅방에서 이야기를 다른 방향으로 이어갈 수 있어요.\n\n• 에셋 숨기기\n대화방 설정에서 '에셋 항상 보기'를 끄면 대화 중 이미지를 숨길 수 있어요.\n\n그 밖에 자잘한 오류를 고치고 안정성을 높였어요.",
+      "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EA%B8%80%EC%B1%97-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6749137461?uo=4",
+      "published_at": "2026-11-17",
+      "competitor_name": "베이글챗",
+      "fetched_at": "2026-11-19T00:04:27.839Z",
+      "fingerprint": "87e610d45b5fb85f"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore",
+      "error": "App Store에서 id=1619030760 를 찾지 못함"
+    },
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "HTTP 404 https://apps.apple.com/kr/app/id1619030760"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}

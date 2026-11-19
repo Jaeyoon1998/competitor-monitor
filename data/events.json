@@ -355,6 +355,21 @@
         { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR" }
       ],
       "detected_on": "2026-10-22"
+    },
+    {
+      "id": "bagelchat-2026-11-17-v1012-tablet-favorites",
+      "competitor_id": "bagelchat",
+      "type": "update",
+      "title": "베이글챗 iOS 1.0.12 — 태블릿 지원·즐겨찾기·채팅방 복사",
+      "summary": "베이글챗이 iOS 1.0.12에서 홈/채팅방 디자인 개편, 태블릿(분할 화면) 지원, 채팅방 즐겨찾기 고정(최대 20개), 추천 답변 자동 받기, 특정 메시지 지점까지 채팅방 복사해 분기 전개, 대화 중 이미지(에셋) 숨기기를 추가했다. 버그 수정 수준이 아니라 멀티 디바이스 지원과 대화 UX 편의 기능을 한 번에 넓힌 업데이트로, 아직 초기(1.0.x) 앱이 사용성·리텐션 기능을 빠르게 채워가는 단계로 보인다.",
+      "starts_on": "2026-11-17",
+      "ends_on": null,
+      "signals": ["태블릿/멀티디바이스 지원", "채팅방 복사(분기)", "즐겨찾기", "추천답변 자동화"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EA%B8%80%EC%B1%97-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6749137461?uo=4" }
+      ],
+      "detected_on": "2026-11-19"
     }
   ]
 }
