@@ -370,6 +370,21 @@
         { "source": "appstore_release", "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%B4%EA%B8%80%EC%B1%97-ai-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%B1%84%ED%8C%85/id6749137461?uo=4" }
       ],
       "detected_on": "2026-11-19"
+    },
+    {
+      "id": "pling-2026-11-17-v350-creator-channels",
+      "competitor_id": "pling",
+      "type": "update",
+      "title": "플링 Android 3.5.0 — 크리에이터 채널·후원·공식 인증 배지",
+      "summary": "플링이 3.5.0에서 크리에이터 채널 개편(한 크리에이터의 전 작품 모아보기), 작품 후원하기(플링 재화로 응원 전달), 공식 인증 배지, 검색·팔로잉을 플레이챗/보이스/성우로 세분화, 작품 공개 시 내 채널 자동 생성(팔로워·후원 수취)을 추가했다. 단순 기능 추가를 넘어 크리에이터가 팔로워를 모으고 후원으로 수익화하는 플랫폼/크리에이터 이코노미 구조로 전환하는 업데이트로 보인다.",
+      "starts_on": "2026-11-17",
+      "ends_on": null,
+      "signals": ["크리에이터 이코노미", "후원(재화 수익화)", "공식 인증 배지", "채널 자동 생성"],
+      "confidence": "high",
+      "evidence": [
+        { "source": "play_release", "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR" }
+      ],
+      "detected_on": "2026-11-20"
     }
   ]
 }

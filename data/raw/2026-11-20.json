@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "collected_at": "2026-11-20T00:03:53.368Z",
+  "items": [
+    {
+      "competitor_id": "pling",
+      "source": "play_release",
+      "external_id": "v3.5.0",
+      "title": "Android 3.5.0 업데이트",
+      "body": "열심히 준비한 새로운 버전이 찾아왔어요.\n더 새로워진 플링을 만나보세요!\n\n[새로운 기능]\n· 크리에이터 채널 개편 : 내 최애 크리에이터의 모든 작품을 한번에 만나보세요.\n· 후원하기 : 마음에 든 작품엔 플링으로 응원의 마음을 전해보세요.\n· 공식 인증 배지 : 공식 크리에이터는 인증 배지로 바로 알아볼 수 있어요.\n· 검색 · 팔로잉 개편 : 크리에이터를 플레이챗 · 보이스 · 성우로 나눠 더 빠르게 찾을 수 있어요.\n· 내 채널 자동 생성 : 플레이챗 작품을 공개하는 순간 나만의 채널이 생겨요. 팔로워를 모으고 후원도 받아보세요.\n\n멈추지 않는 업데이트, 가장 로맨틱한 플레이, 플링.",
+      "url": "https://play.google.com/store/apps/details?id=com.plingcast.app&hl=ko&gl=KR",
+      "published_at": "2026-11-17",
+      "competitor_name": "플링",
+      "fetched_at": "2026-11-20T00:03:53.368Z",
+      "fingerprint": "85c9f7a854086f9c"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore",
+      "error": "App Store에서 id=1619030760 를 찾지 못함"
+    },
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "HTTP 404 https://apps.apple.com/kr/app/id1619030760"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
