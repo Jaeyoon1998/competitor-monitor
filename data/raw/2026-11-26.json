@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-26",
+  "collected_at": "2026-11-26T00:04:17.838Z",
+  "items": [
+    {
+      "competitor_id": "zeta",
+      "source": "play_release",
+      "external_id": "v3.52.53",
+      "title": "Android 3.52.53 업데이트",
+      "body": "한파가 몰아쳐도 코딩은 계속됩니다. 버그 퇴치 완료. 제작 펴의성 개선. 손이 조금 얼어붙느 거ㅅ 같기는 하지ㅁ나...",
+      "url": "https://play.google.com/store/apps/details?id=com.scatterlab.messenger&hl=ko&gl=KR",
+      "published_at": "2026-11-24",
+      "competitor_name": "제타",
+      "fetched_at": "2026-11-26T00:04:17.838Z",
+      "fingerprint": "cd28339a86107974"
+    }
+  ],
+  "errors": [
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore",
+      "error": "App Store에서 id=1619030760 를 찾지 못함"
+    },
+    {
+      "competitor_id": "zeta",
+      "collector": "appstore_iap",
+      "error": "HTTP 404 https://apps.apple.com/kr/app/id1619030760"
+    },
+    {
+      "competitor_id": "crack",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "babechat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "bagelchat",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "pling",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    },
+    {
+      "competitor_id": "loveydovey",
+      "collector": "appstore_iap",
+      "error": "앱 상세 페이지에서 인앱 상품 목록을 찾지 못함"
+    }
+  ]
+}
